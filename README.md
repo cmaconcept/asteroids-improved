@@ -119,7 +119,7 @@ This makes the project easy to distribute and inspect, but less ideal for long-t
 
 ## Documentation
 
-- [Technical Documentation](docs/Asteroids_Improved_Technical_Documentation.md)
+- [Technical Documentation](Asteroids_Improved_Technical_Documentation.md)
 - [Contributing Guide](CONTRIBUTING.md)
 - [Changelog](CHANGELOG.md)
 
