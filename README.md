@@ -111,8 +111,7 @@ This makes the project easy to distribute and inspect, but less ideal for long-t
 ├── LICENSE
 ├── CONTRIBUTING.md
 ├── CHANGELOG.md
-├── docs/
-│   └── Asteroids_Improved_Technical_Documentation.md
+├── Asteroids_Improved_Technical_Documentation.md
 └── assets/
     └── screenshots/
 ```
